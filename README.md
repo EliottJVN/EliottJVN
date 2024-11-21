@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EliottJVN/EliottJVN/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EliottJVN/EliottJVN/output/snake.svg](https://github.com/EliottJVN/EliottJVN/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
