@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 **Engineering Student @Icam Toulouse** — Passionate about aerospace, AI.<br>🤖 **AI Prompter Extraordinaire** — Sometimes I prompt the AI; sometimes it prompts me.<br>🐛 **Bug Creator Certified** — Crafting bugs faster than fixing them. Debugging is just reverse engineering a feature I didn't document.<br>🛠️ **Code Wizard** — Fluent in Python, Git and unfortunately in VBA<br>🌍 **Multilingual Adventurer** — Speaks French 🇫🇷, English 🇬🇧, Spanish 🇪🇸, and Indonesian 🇮🇩. Can confuse you in four languages.<br>✈️ **Seeking an Engineering Internship** — Let's innovate (and fix bugs) together!</p>
+<p align="left">🚀 <strong>Engineering Student @Icam Toulouse</strong> — Passionate about aerospace, AI.<br>🤖 <strong>AI Prompter Extraordinaire</strong> — Sometimes I prompt the AI; sometimes it prompts me.<br>🐛 <strong>Bug Creator Certified</strong> — Crafting bugs faster than fixing them. Debugging is just reverse engineering a feature I didn't document.<br>🛠️ <strong>Code Wizard</strong> — Fluent in Python, Git and unfortunately in VBA<br>🌍 <strong>Multilingual Adventurer</strong> — Speaks French 🇫🇷, English 🇬🇧, Spanish 🇪🇸, and Indonesian 🇮🇩. Can confuse you in four languages.<br>✈️ <strong>Seeking an Engineering Internship</strong> — Let's innovate (and fix bugs) together!</p>
 
 ###
 
