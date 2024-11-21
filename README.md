@@ -6,11 +6,21 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EliottJVN/EliottJVN/output/snake.svg](https://github.com/EliottJVN/EliottJVN/blob/main/snake.yml" alt="Snake animation" />
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5hazZlczNsd3U2NmNnaWEwZThkbDRibDZydWE0cmh0dzVyempycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp"  />
+</div>
 
 ###
 
-<h2 align="center">Programing Languages that I know</h2>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🚀 **Engineering Student @Icam Toulouse** — Passionate about aerospace, AI.<br>🤖 **AI Prompter Extraordinaire** — Sometimes I prompt the AI; sometimes it prompts me.<br>🐛 **Bug Creator Certified** — Crafting bugs faster than fixing them. Debugging is just reverse engineering a feature I didn't document.<br>🛠️ **Code Wizard** — Fluent in Python, Git and unfortunately in VBA<br>🌍 **Multilingual Adventurer** — Speaks French 🇫🇷, English 🇬🇧, Spanish 🇪🇸, and Indonesian 🇮🇩. Can confuse you in four languages.<br>✈️ **Seeking an Engineering Internship** — Let's innovate (and fix bugs) together!</p>
+
+###
+
+<h2 align="left">I code With</h2>
 
 ###
 
@@ -24,12 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5hazZlczNsd3U2NmNnaWEwZThkbDRibDZydWE0cmh0dzVyempycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp"  />
 </div>
 
 ###
