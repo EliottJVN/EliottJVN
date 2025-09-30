@@ -1,12 +1,18 @@
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <!-- Titre à gauche -->
-  <h1 style="margin: 0;">👋 Salut, moi c'est Eliott !</h1>
-  
-  <!-- Bannière à droite -->
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F2641268.gif&f=1&nofb=1&ipt=ac68333f7d1817be55e516bbe26b4dbb2e48a7b5aba6b067be2f4e13081a5bbc" 
-       alt="Bannière Tech" 
-       style="width: 150px; height: auto;">
-</div>
+<table width="100%">
+  <tr>
+    <!-- Titre à gauche -->
+    <td align="left" valign="middle">
+      <h1>👋 Salut, moi c'est Eliott !</h1>
+    </td>
+    
+    <!-- Bannière à droite -->
+    <td align="right" valign="middle">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F2641268.gif&f=1&nofb=1&ipt=ac68333f7d1817be55e516bbe26b4dbb2e48a7b5aba6b067be2f4e13081a5bbc" 
+           alt="Bannière Tech" 
+           width="150">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   🐍 Python | 🐧 Linux | 🔧 Fabrication Additive FDM | ⚡ Tech DIY
