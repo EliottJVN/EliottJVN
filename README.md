@@ -2,7 +2,7 @@
   <tr>
     <!-- Titre à gauche -->
     <td align="left" valign="middle">
-      <span style="font-size:36px;"> 👋 <b>Salut, moi c'est Eliott !</b>
+      <span style="font-size:52px;"> 👋 <b>Salut, moi c'est Eliott !</b>
     </td>
     
   <td align="right" valign="middle">
