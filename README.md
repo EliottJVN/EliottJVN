@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://timelinecovers.pro/facebook-cover/download/rick-and-morty-running-away-facebook-cover.jpg" alt="Bannière Tech">
+  <img src="https://wallpaperaccess.com/lo-fi-gif" alt="Bannière Tech">
 </p>
 
 <h1 align="center">👋 Salut, moi c'est Eliott !</h1>
