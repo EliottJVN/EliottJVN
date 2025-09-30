@@ -2,7 +2,7 @@
   <tr>
     <!-- Titre à gauche -->
     <td align="left" valign="middle">
-      👋 <b>Salut, moi c'est Eliott !</b>
+      <span style="font-size:36px;"> 👋 <b>Salut, moi c'est Eliott !</b>
     </td>
     
   <td align="right" valign="middle">
@@ -13,8 +13,6 @@
   </tr>
 </table>
 
-
----
 
 Passionné par **Python, Linux et fabrication additive**, je bidouille, optimise et automatise tout ce qui me passe sous la main.  
 
