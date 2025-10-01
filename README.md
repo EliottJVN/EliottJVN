@@ -29,9 +29,3 @@ Passionné par **Python, Linux et fabrication additive**, je bidouille, optimise
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
-<p align="center">
-  <a href="https://www.printables.com/@EliottJVN_2148893" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosandtypes.com%2Fwp-content%2Fuploads%2F2024%2F05%2FPrintables.png&f=1&nofb=1&ipt=4b0bd8fb82811ba54cfa0aab5de31c7c10131cfbfd21b13456ede87cf58fa725" alt="Printables">
-  </a>
-</p>
-
