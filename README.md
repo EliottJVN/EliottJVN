@@ -1,4 +1,4 @@
-<table width="100%">
+<table "width:100%; border-collapse:collapse; border:none;">
   <tr>
     <!-- Titre à gauche -->
     <td align="left" valign="middle">
