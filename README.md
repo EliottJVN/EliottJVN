@@ -16,10 +16,11 @@
 
 Passionné par **Python, Linux et fabrication additive**, je bidouille, optimise et automatise tout ce qui me passe sous la main.  
 
-- Gestion et tuning de **machines 3D (Voron, Ender)**  
-- Firmware & **MMU custom**, slicers, polymères  
-- **Self-hosting** : NAS, VPN, services locaux  
-- Projets et expérimentations **partagés sur GitHub**  
+- **Fabrication Additive FDM** :
+    - VORON & Klipper >>>
+    - Stage dans un laboratoire FDM : Expérience avec des polymères hautes & ultras performences.
+- **Self-hosting** : NAS, VPN, services locaux virtualisés
+- Projets et expérimentations
 
 🎯 **Code, assemble, teste, optimise – et partage !**  
 
