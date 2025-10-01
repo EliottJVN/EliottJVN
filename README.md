@@ -31,7 +31,7 @@ Passionné par **Python, Linux et fabrication additive**, je bidouille, optimise
 </p>
 <p align="center">
   <a href="https://www.printables.com/@EliottJVN_2148893" target="_blank">
-    <img src="https://static.printables.com/public/assets/press/printables-logo-dark.svg" alt="Printables" width="200">
+    <img src="https://brandfetch.com/printables.com/logo.svg" alt="Printables" width="150">
   </a>
 </p>
 
